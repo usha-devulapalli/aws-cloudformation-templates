@@ -180,10 +180,6 @@ Mappings:
       Arch: NATHVM64
     m4.xlarge:
       Arch: NATHVM64
-    m4.2xlarge:
-      Arch: NATHVM64
-    m4.4xlarge:
-      Arch: NATHVM64
     m4.10xlarge:
       Arch: NATHVM64
     c1.medium:
